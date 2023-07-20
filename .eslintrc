@@ -1,0 +1,35 @@
+{
+    // "plugins": [
+    //   "@typescript-eslint",
+    //   "prettier",
+    //   "unicorn" ,
+    //   "import"
+    // ],
+    // "extends": [
+    //   "airbnb-typescript/base",
+    //   "plugin:@typescript-eslint/recommended",
+    //   "plugin:unicorn/recommended",
+    //   "plugin:prettier/recommended",
+    //   "prettier",
+    //   "prettier/@typescript-eslint"
+    // ],
+    // "parserOptions": {
+    //   "ecmaVersion": 2020,
+    //   "sourceType": "module"
+    // },
+    "env": {
+      "es6": true,
+      "browser": true,
+      "node": true
+    },
+    "rules": {
+      "no-var": "error",
+      "semi": "error",
+      "indent": "error",
+      "no-multi-spaces": "error",
+      "space-in-parens": "error",
+      "no-multiple-empty-lines": "error",
+      "prefer-const": "error",
+      "no-use-before-define": "error"
+    }
+  }
