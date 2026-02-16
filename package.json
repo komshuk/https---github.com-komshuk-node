@@ -11,7 +11,7 @@
     "author": "bezmenov nikita",
     "license": "ISC",
     "devDependencies": {
-      "eslint": "^7.1.0"
+      "eslint": "^9.39.1"
     },
     "dependencies": {
       "prettier": "^2.8.8"
